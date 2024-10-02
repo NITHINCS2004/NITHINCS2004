@@ -1,6 +1,7 @@
 # Hi 👋, I'm Nithin C S
 
-- 🔭 All my projects are available on [GitHub](https://github.com/NITHINCS2004)
+- 🔭 All my projects are available on [GitHub](
+)
 - 📫 Reach out to me at **nithics2004@gmail.com**
 
 ## 🌐 Socials:
